@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:Layout_width="396dp"
+        android:Layout_height="75dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Nor Hidayah Fitriyani"
+        android:textAlignment="textStart"
+        android:textSize="40dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Nis 3020"
+        android:textAlignment="textStart"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Novita Sari"
+        android:textAlignment="textStart"
+        android:textSize="40dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Nis 3022"
+        android:textAlignment="textStart"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Nur Izza"
+        android:textAlignment="textStart"
+        android:background="#9AE840"
+        android:textSize="40dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Nis 3024"
+        android:background="#9AE840"
+        android:textAlignment="textStart"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Riska Anggun Angriani"
+        android:textAlignment="textStart"
+        android:textSize="35dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Nis 3026"
+        android:textAlignment="textStart"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Sahrul Lukman Hakim"
+        android:textAlignment="textStart"
+        android:textSize="40dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Nis 3027"
+        android:textAlignment="textStart"
+        android:textSize="30dp"/>
+
+</LinearLayout>
